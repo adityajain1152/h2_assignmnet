@@ -1,0 +1,28 @@
+#head{
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    color: darksalmon;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 13vw;
+  }
+.fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }

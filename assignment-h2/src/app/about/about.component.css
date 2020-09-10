@@ -1,0 +1,16 @@
+#about{
+    padding-bottom: 80%;
+    background-image: url("src\assets\Images\bg.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#head{
+    text-align: center;
+    padding-top: 1%;
+}
+
+#desc{
+    text-align: center;
+}

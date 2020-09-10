@@ -1,0 +1,36 @@
+.home{
+   background-color: bisque;
+   padding-top: 1.5%;
+   padding-bottom: 5%;
+}
+
+.head{
+    text-align: center;
+    font-family: cursive;
+    color: coral;
+    margin-top: 2%;
+    font-size: 60px;
+}
+
+#movie{
+    margin:10px
+}
+#movie-head{
+    
+    margin-left: 25vw;
+    text-emphasis: bold;
+    font-size: 40px;
+    color: darkmagenta;
+}
+
+.movie-desc{
+    
+    float:right;
+    margin-right: 2vw;
+    font-size: 25px;
+    color: rgb(18, 108, 182);
+    margin-left: auto;
+    margin-top: 2vh;
+    
+    
+}
